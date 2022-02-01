@@ -30,7 +30,7 @@ img {
     height: 420px;
     width: 270px;
     border-radius: 1em;
-    margin-top: 4em;
+    margin-top: 9em;
     background-color: hsl(0, 0%, 100%);
     padding: 1em;
 }
@@ -38,7 +38,6 @@ img {
 .attribution { 
     font-size: 11px; 
     text-align: center; 
-    margin-top: 8em;
 }
 
 .attribution a { 
